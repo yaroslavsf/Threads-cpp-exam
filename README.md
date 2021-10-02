@@ -1,5 +1,5 @@
 # Threads-Exam-c-
-mini-poker game with threads
+mini-poker game with threads(c++/c)
 
 ТЗ
 
